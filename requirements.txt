@@ -1,0 +1,10 @@
+torch
+transformers
+unsloth
+peft
+bitsandbytes
+gradio
+pdfplumber
+scikit-learn
+rouge-score
+accelerate
